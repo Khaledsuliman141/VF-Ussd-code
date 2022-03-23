@@ -1,0 +1,46 @@
+body{margin: 0;padding: 0;}
+
+
+header{
+    background-image: url("../Images/1.jpg"); 
+    background-size: cover; 
+    min-height: 160vh; 
+    overflow: hidden
+}
+
+.ussd{
+    margin: auto;
+    text-align: center;
+    color: #000;
+}
+
+.btns{margin: 10px;}
+
+button{
+    width: 125px;
+    height: 40px;
+    margin: 5px;
+    border: 2px solid rgb(255, 21, 21);
+    border-radius: 5px;
+    color: rgb(255, 21, 21);
+}
+
+.output{
+    height: 700px;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    border: 2px solid rgb(255, 21, 21);
+    border-radius: 5px;
+    color: #000;
+    font-size: 20px;
+}
+
+footer{
+    background-color: #000;
+    color:  rgb(255, 21, 21);
+    height: 40px;
+    text-align: center;
+}
+
